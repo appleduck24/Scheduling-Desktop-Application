@@ -1,4 +1,4 @@
-# Scheduling-Desktop-Application
+# Scheduling-Desktop-Application (Petal)
 A cute to-do list app for your desktop
 
 Features: 
