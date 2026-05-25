@@ -1,4 +1,4 @@
-# Scheduling-Application
+# Scheduling-Desktop-Application
 A cute to-do list app for your desktop
 
 Features: 
